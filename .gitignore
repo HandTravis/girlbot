@@ -1,0 +1,19 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virutal environment
+.venv/
+
+# Ignore secretive stuff
+.env
+
+# Ignore IDE configurations (e.g., VSCode)
+.vscode/
+.idea/
+
+# Ignore other temporary files
+*.log
+*.tmp
+*.swp
